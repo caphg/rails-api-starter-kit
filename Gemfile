@@ -54,6 +54,7 @@ group :test do
   gem 'rails-controller-testing'
   gem 'rspec-collection_matchers'
   gem 'shoulda-matchers'
+  gem 'faker', git: "git://github.com/stympy/faker.git", branch: "master"
 end
 
 
